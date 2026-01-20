@@ -1,0 +1,1707 @@
+tag,id,name,classes,text,xpath
+"button","","","btn btn-success","Test Cases","/html/body/section/div/div/div/div/div/div/div/a/button"
+"button","","","btn btn-success","APIs list for practice","/html/body/section/div/div/div/div/div/div/div/a[2]/button"
+"button","","","btn btn-success","Test Cases","/html/body/section/div/div/div/div/div/div[2]/div/a/button"
+"button","","","btn btn-success","APIs list for practice","/html/body/section/div/div/div/div/div/div[2]/div/a[2]/button"
+"button","","","btn btn-success","Test Cases","/html/body/section/div/div/div/div/div/div[3]/div/a/button"
+"button","","","btn btn-success","APIs list for practice","/html/body/section/div/div/div/div/div/div[3]/div/a[2]/button"
+"button","","","btn btn-success close-modal btn-block","Continue Shopping","/html/body/section[2]/div/div/div[2]/div/div/div/div/div[3]/button"
+"button","subscribe","","btn btn-default","","//*[@id=subscribe]"
+"input","","csrfmiddlewaretoken","","","/html/body/footer/div/div/div/div[2]/div/form/input"
+"input","susbscribe_email","","","","//*[@id=susbscribe_email]"
+"a","","","","","/html/body/header/div/div/div/div/div/a"
+"a","","","","Home","/html/body/header/div/div/div/div[2]/div/ul/li/a"
+"a","","",""," Products","/html/body/header/div/div/div/div[2]/div/ul/li[2]/a"
+"a","","","","Cart","/html/body/header/div/div/div/div[2]/div/ul/li[3]/a"
+"a","","","","Signup / Login","/html/body/header/div/div/div/div[2]/div/ul/li[4]/a"
+"a","","","","Test Cases","/html/body/header/div/div/div/div[2]/div/ul/li[5]/a"
+"a","","","","API Testing","/html/body/header/div/div/div/div[2]/div/ul/li[6]/a"
+"a","","","","Video Tutorials","/html/body/header/div/div/div/div[2]/div/ul/li[7]/a"
+"a","","","","Contact us","/html/body/header/div/div/div/div[2]/div/ul/li[8]/a"
+"a","","","test_cases_list","Test Cases","/html/body/section/div/div/div/div/div/div/div/a"
+"a","","","apis_list","APIs list for practice","/html/body/section/div/div/div/div/div/div/div/a[2]"
+"a","","","test_cases_list","Test Cases","/html/body/section/div/div/div/div/div/div[2]/div/a"
+"a","","","apis_list","APIs list for practice","/html/body/section/div/div/div/div/div/div[2]/div/a[2]"
+"a","","","test_cases_list","Test Cases","/html/body/section/div/div/div/div/div/div[3]/div/a"
+"a","","","apis_list","APIs list for practice","/html/body/section/div/div/div/div/div/div[3]/div/a[2]"
+"a","","","left control-carousel hidden-xs","","/html/body/section/div/div/div/div/a"
+"a","","","right control-carousel hidden-xs","","/html/body/section/div/div/div/div/a[2]"
+"a","","","","Women","/html/body/section[2]/div/div/div/div/div/div/div/h4/a"
+"a","","","","Dress","/html/body/section[2]/div/div/div/div/div/div/div[2]/div/ul/li/a"
+"a","","","","Tops","/html/body/section[2]/div/div/div/div/div/div/div[2]/div/ul/li[2]/a"
+"a","","","","Saree","/html/body/section[2]/div/div/div/div/div/div/div[2]/div/ul/li[3]/a"
+"a","","","","Men","/html/body/section[2]/div/div/div/div/div/div[2]/div/h4/a"
+"a","","","","Tshirts","/html/body/section[2]/div/div/div/div/div/div[2]/div[2]/div/ul/li/a"
+"a","","","","Jeans","/html/body/section[2]/div/div/div/div/div/div[2]/div[2]/div/ul/li[2]/a"
+"a","","","","Kids","/html/body/section[2]/div/div/div/div/div/div[3]/div/h4/a"
+"a","","","","Dress","/html/body/section[2]/div/div/div/div/div/div[3]/div[2]/div/ul/li/a"
+"a","","","","Tops & Shirts","/html/body/section[2]/div/div/div/div/div/div[3]/div[2]/div/ul/li[2]/a"
+"a","","","","(6)Polo","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li/a"
+"a","","","","(5)H&M","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[2]/a"
+"a","","","","(5)Madame","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[3]/a"
+"a","","","","(3)Mast & Harbour","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[4]/a"
+"a","","","","(4)Babyhug","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[5]/a"
+"a","","","","(3)Allen Solly Junior","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[6]/a"
+"a","","","","(3)Kookie Kids","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[7]/a"
+"a","","","","(5)Biba","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[8]/a"
+"a","","","","View Cart","/html/body/section[2]/div/div/div[2]/div/div/div/div/div[2]/p[2]/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[2]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[2]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[2]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[3]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[3]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[4]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[4]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[4]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[5]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[5]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[5]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[6]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[6]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[6]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[7]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[7]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[7]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[8]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[8]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[8]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[9]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[9]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[9]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[10]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[10]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[10]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[11]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[11]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[11]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[12]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[12]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[12]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[13]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[13]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[13]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[14]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[14]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[14]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[15]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[15]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[15]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[16]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[16]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[16]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[17]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[17]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[17]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[18]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[18]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[18]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[19]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[19]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[19]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[20]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[20]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[20]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[21]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[21]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[21]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[22]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[22]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[22]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[23]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[23]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[23]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[24]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[24]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[24]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[25]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[25]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[25]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[26]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[26]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[26]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[27]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[27]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[27]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[28]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[28]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[28]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[29]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[29]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[29]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[30]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[30]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[30]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[31]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[31]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[31]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[32]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[32]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[32]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[33]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[33]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[33]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[34]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[34]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[34]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[35]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div/div[35]/div/div/div[2]/div/a"
+"a","","","","View Product","/html/body/section[2]/div/div/div[2]/div/div[35]/div/div[2]/ul/li/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[3]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/a"
+"a","","","btn btn-default add-to-cart","Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div/div/a"
+"a","","","left recommended-item-control","","/html/body/section[2]/div/div/div[2]/div[2]/div/a"
+"a","","","right recommended-item-control","","/html/body/section[2]/div/div/div[2]/div[2]/div/a[2]"
+"a","scrollUp","","","","//*[@id=scrollUp]"
+"span","","","","Automation","/html/body/section/div/div/div/div/div/div/div/h1/span"
+"span","","","","Automation","/html/body/section/div/div/div/div/div/div[2]/div/h1/span"
+"span","","","","Automation","/html/body/section/div/div/div/div/div/div[3]/div/h1/span"
+"span","","","badge pull-right","","/html/body/section[2]/div/div/div/div/div/div/div/h4/a/span"
+"span","","","badge pull-right","","/html/body/section[2]/div/div/div/div/div/div[2]/div/h4/a/span"
+"span","","","badge pull-right","","/html/body/section[2]/div/div/div/div/div/div[3]/div/h4/a/span"
+"span","","","pull-right","(6)","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li/a/span"
+"span","","","pull-right","(5)","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[2]/a/span"
+"span","","","pull-right","(5)","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[3]/a/span"
+"span","","","pull-right","(3)","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[4]/a/span"
+"span","","","pull-right","(4)","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[5]/a/span"
+"span","","","pull-right","(3)","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[6]/a/span"
+"span","","","pull-right","(3)","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[7]/a/span"
+"span","","","pull-right","(5)","/html/body/section[2]/div/div/div/div/div[3]/div/ul/li[8]/a/span"
+"div","","","header-middle","Home
+								 Products
+								 Cart
+								
+								 Signup / Login
+								
+								 Test Cases
+								 API Testing","/html/body/header/div"
+"div","","","container","Home
+								 Products
+								 Cart
+								
+								 Signup / Login
+								
+								 Test Cases
+								 API Testing","/html/body/header/div/div"
+"div","","","row","Home
+								 Products
+								 Cart
+								
+								 Signup / Login
+								
+								 Test Cases
+								 API Testing","/html/body/header/div/div/div"
+"div","","","col-sm-4","","/html/body/header/div/div/div/div"
+"div","","","logo pull-left","","/html/body/header/div/div/div/div/div"
+"div","","","col-sm-8","Home
+								 Products
+								 Cart
+								
+								 Signup / Login
+								
+								 Test Cases
+								 API Testing","/html/body/header/div/div/div/div[2]"
+"div","","","shop-menu pull-right","Home
+								 Products
+								 Cart
+								
+								 Signup / Login
+								
+								 Test Cases
+								 API Testing","/html/body/header/div/div/div/div[2]/div"
+"div","","","container","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div"
+"div","","","row","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div/div"
+"div","","","col-sm-12","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div/div/div"
+"div","slider-carousel","","carousel slide","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","//*[@id=slider-carousel]"
+"div","","","carousel-inner","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div/div/div/div/div"
+"div","","","item active","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div/div/div/div/div/div"
+"div","","","col-sm-6","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div/div/div/div/div/div/div"
+"div","","","col-sm-6","","/html/body/section/div/div/div/div/div/div/div[2]"
+"div","","","item","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div/div/div/div/div/div[2]"
+"div","","","col-sm-6","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div/div/div/div/div/div[2]/div"
+"div","","","col-sm-6","","/html/body/section/div/div/div/div/div/div[2]/div[2]"
+"div","","","item","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div/div/div/div/div/div[3]"
+"div","","","col-sm-6","AutomationExercise
+									Full-Fledged practice website for Automation Engineers
+									All QA engineers can use thi","/html/body/section/div/div/div/div/div/div[3]/div"
+"div","","","col-sm-6","","/html/body/section/div/div/div/div/div/div[3]/div[2]"
+"div","","","container","Category
+						
+							
+							
+								
+									
+										
+											
+											Women
+										
+									
+								","/html/body/section[2]/div"
+"div","","","row","Category
+						
+							
+							
+								
+									
+										
+											
+											Women
+										
+									
+								","/html/body/section[2]/div/div"
+"div","","","col-sm-3","Category
+						
+							
+							
+								
+									
+										
+											
+											Women
+										
+									
+								","/html/body/section[2]/div/div/div"
+"div","","","left-sidebar","Category
+						
+							
+							
+								
+									
+										
+											
+											Women
+										
+									
+								","/html/body/section[2]/div/div/div/div"
+"div","accordian","","panel-group category-products","Women
+										
+									
+								
+								
+									
+										
+											
+											Dress 
+											
+											T","//*[@id=accordian]"
+"div","","","panel panel-default","Women
+										
+									
+								
+								
+									
+										
+											
+											Dress 
+											
+											T","/html/body/section[2]/div/div/div/div/div/div"
+"div","","","panel-heading","Women","/html/body/section[2]/div/div/div/div/div/div/div"
+"div","Women","","panel-collapse collapse","Dress 
+											
+											Tops 
+											
+											Saree","//*[@id=Women]"
+"div","","","panel-body","Dress 
+											
+											Tops 
+											
+											Saree","/html/body/section[2]/div/div/div/div/div/div/div[2]/div"
+"div","","","panel panel-default","Men
+										
+									
+								
+								
+									
+										
+											
+											Tshirts 
+											
+											J","/html/body/section[2]/div/div/div/div/div/div[2]"
+"div","","","panel-heading","Men","/html/body/section[2]/div/div/div/div/div/div[2]/div"
+"div","Men","","panel-collapse collapse","Tshirts 
+											
+											Jeans","//*[@id=Men]"
+"div","","","panel-body","Tshirts 
+											
+											Jeans","/html/body/section[2]/div/div/div/div/div/div[2]/div[2]/div"
+"div","","","panel panel-default","Kids
+										
+									
+								
+								
+									
+										
+											
+											Dress 
+											
+											To","/html/body/section[2]/div/div/div/div/div/div[3]"
+"div","","","panel-heading","Kids","/html/body/section[2]/div/div/div/div/div/div[3]/div"
+"div","Kids","","panel-collapse collapse","Dress 
+											
+											Tops & Shirts","//*[@id=Kids]"
+"div","","","panel-body","Dress 
+											
+											Tops & Shirts","/html/body/section[2]/div/div/div/div/div/div[3]/div[2]/div"
+"div","","","google-auto-placed","","/html/body/section[2]/div/div/div/div/div[2]"
+"div","aswift_1_host","","","","//*[@id=aswift_1_host]"
+"div","","","brands_products","Brands
+							
+								
+									
+									 (6)Polo
+									
+									 (5)H&M
+									
+									 (5)Madame
+									
+	","/html/body/section[2]/div/div/div/div/div[3]"
+"div","","","brands-name","(6)Polo
+									
+									 (5)H&M
+									
+									 (5)Madame
+									
+									 (3)Mast & Harbour
+									
+							","/html/body/section[2]/div/div/div/div/div[3]/div"
+"div","","","col-sm-9 padding-right","Features Items
+
+						
+						
+							
+								
+									
+										
+											
+										
+										Added!
+									
+	","/html/body/section[2]/div/div/div[2]"
+"div","","","features_items","Features Items
+
+						
+						
+							
+								
+									
+										
+											
+										
+										Added!
+									
+	","/html/body/section[2]/div/div/div[2]/div"
+"div","cartModal","","modal fade","
+										
+										Added!
+									
+									
+										Your product has been added to cart.
+										View Cart
+			","//*[@id=cartModal]"
+"div","","","modal-dialog modal-confirm","
+										
+										Added!
+									
+									
+										Your product has been added to cart.
+										View Cart
+			","/html/body/section[2]/div/div/div[2]/div/div/div"
+"div","","","modal-content","
+										
+										Added!
+									
+									
+										Your product has been added to cart.
+										View Cart
+			","/html/body/section[2]/div/div/div[2]/div/div/div/div"
+"div","","","modal-header","
+										
+										Added!","/html/body/section[2]/div/div/div[2]/div/div/div/div/div"
+"div","","","icon-box","","/html/body/section[2]/div/div/div[2]/div/div/div/div/div/div"
+"div","","","modal-body","Your product has been added to cart.
+										View Cart","/html/body/section[2]/div/div/div[2]/div/div/div/div/div[2]"
+"div","","","modal-footer","Continue Shopping","/html/body/section[2]/div/div/div[2]/div/div/div/div/div[3]"
+"div","","","col-sm-4","Rs. 500
+											Blue Top
+											Add to cart
+										
+										
+											
+												Rs. 500
+												Blu","/html/body/section[2]/div/div/div[2]/div/div[2]"
+"div","","","product-image-wrapper","Rs. 500
+											Blue Top
+											Add to cart
+										
+										
+											
+												Rs. 500
+												Blu","/html/body/section[2]/div/div/div[2]/div/div[2]/div"
+"div","","","single-products","Rs. 500
+											Blue Top
+											Add to cart
+										
+										
+											
+												Rs. 500
+												Blu","/html/body/section[2]/div/div/div[2]/div/div[2]/div/div"
+"div","","","productinfo text-center","Rs. 500
+											Blue Top
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[2]/div/div/div"
+"div","","","product-overlay","Rs. 500
+												Blue Top
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[2]/div/div/div[2]"
+"div","","","overlay-content","Rs. 500
+												Blue Top
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[2]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[2]/div/div[2]"
+"div","","","col-sm-4","Rs. 400
+											Men Tshirt
+											Add to cart
+										
+										
+											
+												Rs. 400
+												M","/html/body/section[2]/div/div/div[2]/div/div[3]"
+"div","","","product-image-wrapper","Rs. 400
+											Men Tshirt
+											Add to cart
+										
+										
+											
+												Rs. 400
+												M","/html/body/section[2]/div/div/div[2]/div/div[3]/div"
+"div","","","single-products","Rs. 400
+											Men Tshirt
+											Add to cart
+										
+										
+											
+												Rs. 400
+												M","/html/body/section[2]/div/div/div[2]/div/div[3]/div/div"
+"div","","","productinfo text-center","Rs. 400
+											Men Tshirt
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[3]/div/div/div"
+"div","","","product-overlay","Rs. 400
+												Men Tshirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[3]/div/div/div[2]"
+"div","","","overlay-content","Rs. 400
+												Men Tshirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[3]/div/div[2]"
+"div","","","col-sm-4","Rs. 1000
+											Sleeveless Dress
+											Add to cart
+										
+										
+											
+												Rs. 1000
+					","/html/body/section[2]/div/div/div[2]/div/div[4]"
+"div","","","product-image-wrapper","Rs. 1000
+											Sleeveless Dress
+											Add to cart
+										
+										
+											
+												Rs. 1000
+					","/html/body/section[2]/div/div/div[2]/div/div[4]/div"
+"div","","","single-products","Rs. 1000
+											Sleeveless Dress
+											Add to cart
+										
+										
+											
+												Rs. 1000
+					","/html/body/section[2]/div/div/div[2]/div/div[4]/div/div"
+"div","","","productinfo text-center","Rs. 1000
+											Sleeveless Dress
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[4]/div/div/div"
+"div","","","product-overlay","Rs. 1000
+												Sleeveless Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[4]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1000
+												Sleeveless Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[4]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[4]/div/div[2]"
+"div","","","col-sm-4","Rs. 1500
+											Stylish Dress
+											Add to cart
+										
+										
+											
+												Rs. 1500
+								","/html/body/section[2]/div/div/div[2]/div/div[5]"
+"div","","","product-image-wrapper","Rs. 1500
+											Stylish Dress
+											Add to cart
+										
+										
+											
+												Rs. 1500
+								","/html/body/section[2]/div/div/div[2]/div/div[5]/div"
+"div","","","single-products","Rs. 1500
+											Stylish Dress
+											Add to cart
+										
+										
+											
+												Rs. 1500
+								","/html/body/section[2]/div/div/div[2]/div/div[5]/div/div"
+"div","","","productinfo text-center","Rs. 1500
+											Stylish Dress
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[5]/div/div/div"
+"div","","","product-overlay","Rs. 1500
+												Stylish Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[5]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1500
+												Stylish Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[5]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[5]/div/div[2]"
+"div","","","col-sm-4","Rs. 600
+											Winter Top
+											Add to cart
+										
+										
+											
+												Rs. 600
+												W","/html/body/section[2]/div/div/div[2]/div/div[6]"
+"div","","","product-image-wrapper","Rs. 600
+											Winter Top
+											Add to cart
+										
+										
+											
+												Rs. 600
+												W","/html/body/section[2]/div/div/div[2]/div/div[6]/div"
+"div","","","single-products","Rs. 600
+											Winter Top
+											Add to cart
+										
+										
+											
+												Rs. 600
+												W","/html/body/section[2]/div/div/div[2]/div/div[6]/div/div"
+"div","","","productinfo text-center","Rs. 600
+											Winter Top
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[6]/div/div/div"
+"div","","","product-overlay","Rs. 600
+												Winter Top
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[6]/div/div/div[2]"
+"div","","","overlay-content","Rs. 600
+												Winter Top
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[6]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[6]/div/div[2]"
+"div","","","col-sm-4","Rs. 400
+											Summer White Top
+											Add to cart
+										
+										
+											
+												Rs. 400
+							","/html/body/section[2]/div/div/div[2]/div/div[7]"
+"div","","","product-image-wrapper","Rs. 400
+											Summer White Top
+											Add to cart
+										
+										
+											
+												Rs. 400
+							","/html/body/section[2]/div/div/div[2]/div/div[7]/div"
+"div","","","single-products","Rs. 400
+											Summer White Top
+											Add to cart
+										
+										
+											
+												Rs. 400
+							","/html/body/section[2]/div/div/div[2]/div/div[7]/div/div"
+"div","","","productinfo text-center","Rs. 400
+											Summer White Top
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[7]/div/div/div"
+"div","","","product-overlay","Rs. 400
+												Summer White Top
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[7]/div/div/div[2]"
+"div","","","overlay-content","Rs. 400
+												Summer White Top
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[7]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[7]/div/div[2]"
+"div","","","col-sm-4","Rs. 1000
+											Madame Top For Women
+											Add to cart
+										
+										
+											
+												Rs. 1000
+	","/html/body/section[2]/div/div/div[2]/div/div[8]"
+"div","","","product-image-wrapper","Rs. 1000
+											Madame Top For Women
+											Add to cart
+										
+										
+											
+												Rs. 1000
+	","/html/body/section[2]/div/div/div[2]/div/div[8]/div"
+"div","","","single-products","Rs. 1000
+											Madame Top For Women
+											Add to cart
+										
+										
+											
+												Rs. 1000
+	","/html/body/section[2]/div/div/div[2]/div/div[8]/div/div"
+"div","","","productinfo text-center","Rs. 1000
+											Madame Top For Women
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[8]/div/div/div"
+"div","","","product-overlay","Rs. 1000
+												Madame Top For Women
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[8]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1000
+												Madame Top For Women
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[8]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[8]/div/div[2]"
+"div","","","col-sm-4","Rs. 700
+											Fancy Green Top
+											Add to cart
+										
+										
+											
+												Rs. 700
+								","/html/body/section[2]/div/div/div[2]/div/div[9]"
+"div","","","product-image-wrapper","Rs. 700
+											Fancy Green Top
+											Add to cart
+										
+										
+											
+												Rs. 700
+								","/html/body/section[2]/div/div/div[2]/div/div[9]/div"
+"div","","","single-products","Rs. 700
+											Fancy Green Top
+											Add to cart
+										
+										
+											
+												Rs. 700
+								","/html/body/section[2]/div/div/div[2]/div/div[9]/div/div"
+"div","","","productinfo text-center","Rs. 700
+											Fancy Green Top
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[9]/div/div/div"
+"div","","","product-overlay","Rs. 700
+												Fancy Green Top
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[9]/div/div/div[2]"
+"div","","","overlay-content","Rs. 700
+												Fancy Green Top
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[9]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[9]/div/div[2]"
+"div","","","col-sm-4","Rs. 499
+											Sleeves Printed Top - White
+											Add to cart
+										
+										
+											
+												Rs. ","/html/body/section[2]/div/div/div[2]/div/div[10]"
+"div","","","product-image-wrapper","Rs. 499
+											Sleeves Printed Top - White
+											Add to cart
+										
+										
+											
+												Rs. ","/html/body/section[2]/div/div/div[2]/div/div[10]/div"
+"div","","","single-products","Rs. 499
+											Sleeves Printed Top - White
+											Add to cart
+										
+										
+											
+												Rs. ","/html/body/section[2]/div/div/div[2]/div/div[10]/div/div"
+"div","","","productinfo text-center","Rs. 499
+											Sleeves Printed Top - White
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[10]/div/div/div"
+"div","","","product-overlay","Rs. 499
+												Sleeves Printed Top - White
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[10]/div/div/div[2]"
+"div","","","overlay-content","Rs. 499
+												Sleeves Printed Top - White
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[10]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[10]/div/div[2]"
+"div","","","col-sm-4","Rs. 359
+											Half Sleeves Top Schiffli Detailing - Pink
+											Add to cart
+										
+										
+											
+	","/html/body/section[2]/div/div/div[2]/div/div[11]"
+"div","","","product-image-wrapper","Rs. 359
+											Half Sleeves Top Schiffli Detailing - Pink
+											Add to cart
+										
+										
+											
+	","/html/body/section[2]/div/div/div[2]/div/div[11]/div"
+"div","","","single-products","Rs. 359
+											Half Sleeves Top Schiffli Detailing - Pink
+											Add to cart
+										
+										
+											
+	","/html/body/section[2]/div/div/div[2]/div/div[11]/div/div"
+"div","","","productinfo text-center","Rs. 359
+											Half Sleeves Top Schiffli Detailing - Pink
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[11]/div/div/div"
+"div","","","product-overlay","Rs. 359
+												Half Sleeves Top Schiffli Detailing - Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[11]/div/div/div[2]"
+"div","","","overlay-content","Rs. 359
+												Half Sleeves Top Schiffli Detailing - Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[11]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[11]/div/div[2]"
+"div","","","col-sm-4","Rs. 278
+											Frozen Tops For Kids
+											Add to cart
+										
+										
+											
+												Rs. 278
+			","/html/body/section[2]/div/div/div[2]/div/div[12]"
+"div","","","product-image-wrapper","Rs. 278
+											Frozen Tops For Kids
+											Add to cart
+										
+										
+											
+												Rs. 278
+			","/html/body/section[2]/div/div/div[2]/div/div[12]/div"
+"div","","","single-products","Rs. 278
+											Frozen Tops For Kids
+											Add to cart
+										
+										
+											
+												Rs. 278
+			","/html/body/section[2]/div/div/div[2]/div/div[12]/div/div"
+"div","","","productinfo text-center","Rs. 278
+											Frozen Tops For Kids
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[12]/div/div/div"
+"div","","","product-overlay","Rs. 278
+												Frozen Tops For Kids
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[12]/div/div/div[2]"
+"div","","","overlay-content","Rs. 278
+												Frozen Tops For Kids
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[12]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[12]/div/div[2]"
+"div","","","col-sm-4","Rs. 679
+											Full Sleeves Top Cherry - Pink
+											Add to cart
+										
+										
+											
+												R","/html/body/section[2]/div/div/div[2]/div/div[13]"
+"div","","","product-image-wrapper","Rs. 679
+											Full Sleeves Top Cherry - Pink
+											Add to cart
+										
+										
+											
+												R","/html/body/section[2]/div/div/div[2]/div/div[13]/div"
+"div","","","single-products","Rs. 679
+											Full Sleeves Top Cherry - Pink
+											Add to cart
+										
+										
+											
+												R","/html/body/section[2]/div/div/div[2]/div/div[13]/div/div"
+"div","","","productinfo text-center","Rs. 679
+											Full Sleeves Top Cherry - Pink
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[13]/div/div/div"
+"div","","","product-overlay","Rs. 679
+												Full Sleeves Top Cherry - Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[13]/div/div/div[2]"
+"div","","","overlay-content","Rs. 679
+												Full Sleeves Top Cherry - Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[13]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[13]/div/div[2]"
+"div","","","col-sm-4","Rs. 315
+											Printed Off Shoulder Top - White
+											Add to cart
+										
+										
+											
+											","/html/body/section[2]/div/div/div[2]/div/div[14]"
+"div","","","product-image-wrapper","Rs. 315
+											Printed Off Shoulder Top - White
+											Add to cart
+										
+										
+											
+											","/html/body/section[2]/div/div/div[2]/div/div[14]/div"
+"div","","","single-products","Rs. 315
+											Printed Off Shoulder Top - White
+											Add to cart
+										
+										
+											
+											","/html/body/section[2]/div/div/div[2]/div/div[14]/div/div"
+"div","","","productinfo text-center","Rs. 315
+											Printed Off Shoulder Top - White
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[14]/div/div/div"
+"div","","","product-overlay","Rs. 315
+												Printed Off Shoulder Top - White
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[14]/div/div/div[2]"
+"div","","","overlay-content","Rs. 315
+												Printed Off Shoulder Top - White
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[14]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[14]/div/div[2]"
+"div","","","col-sm-4","Rs. 478
+											Sleeves Top and Short - Blue & Pink
+											Add to cart
+										
+										
+											
+								","/html/body/section[2]/div/div/div[2]/div/div[15]"
+"div","","","product-image-wrapper","Rs. 478
+											Sleeves Top and Short - Blue & Pink
+											Add to cart
+										
+										
+											
+								","/html/body/section[2]/div/div/div[2]/div/div[15]/div"
+"div","","","single-products","Rs. 478
+											Sleeves Top and Short - Blue & Pink
+											Add to cart
+										
+										
+											
+								","/html/body/section[2]/div/div/div[2]/div/div[15]/div/div"
+"div","","","productinfo text-center","Rs. 478
+											Sleeves Top and Short - Blue & Pink
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[15]/div/div/div"
+"div","","","product-overlay","Rs. 478
+												Sleeves Top and Short - Blue & Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[15]/div/div/div[2]"
+"div","","","overlay-content","Rs. 478
+												Sleeves Top and Short - Blue & Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[15]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[15]/div/div[2]"
+"div","","","col-sm-4","Rs. 1200
+											Little Girls Mr. Panda Shirt
+											Add to cart
+										
+										
+											
+												Rs","/html/body/section[2]/div/div/div[2]/div/div[16]"
+"div","","","product-image-wrapper","Rs. 1200
+											Little Girls Mr. Panda Shirt
+											Add to cart
+										
+										
+											
+												Rs","/html/body/section[2]/div/div/div[2]/div/div[16]/div"
+"div","","","single-products","Rs. 1200
+											Little Girls Mr. Panda Shirt
+											Add to cart
+										
+										
+											
+												Rs","/html/body/section[2]/div/div/div[2]/div/div[16]/div/div"
+"div","","","productinfo text-center","Rs. 1200
+											Little Girls Mr. Panda Shirt
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[16]/div/div/div"
+"div","","","product-overlay","Rs. 1200
+												Little Girls Mr. Panda Shirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[16]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1200
+												Little Girls Mr. Panda Shirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[16]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[16]/div/div[2]"
+"div","","","col-sm-4","Rs. 1050
+											Sleeveless Unicorn Patch Gown - Pink
+											Add to cart
+										
+										
+											
+						","/html/body/section[2]/div/div/div[2]/div/div[17]"
+"div","","","product-image-wrapper","Rs. 1050
+											Sleeveless Unicorn Patch Gown - Pink
+											Add to cart
+										
+										
+											
+						","/html/body/section[2]/div/div/div[2]/div/div[17]/div"
+"div","","","single-products","Rs. 1050
+											Sleeveless Unicorn Patch Gown - Pink
+											Add to cart
+										
+										
+											
+						","/html/body/section[2]/div/div/div[2]/div/div[17]/div/div"
+"div","","","productinfo text-center","Rs. 1050
+											Sleeveless Unicorn Patch Gown - Pink
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[17]/div/div/div"
+"div","","","product-overlay","Rs. 1050
+												Sleeveless Unicorn Patch Gown - Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[17]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1050
+												Sleeveless Unicorn Patch Gown - Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[17]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[17]/div/div[2]"
+"div","","","col-sm-4","Rs. 1190
+											Cotton Mull Embroidered Dress
+											Add to cart
+										
+										
+											
+												R","/html/body/section[2]/div/div/div[2]/div/div[18]"
+"div","","","product-image-wrapper","Rs. 1190
+											Cotton Mull Embroidered Dress
+											Add to cart
+										
+										
+											
+												R","/html/body/section[2]/div/div/div[2]/div/div[18]/div"
+"div","","","single-products","Rs. 1190
+											Cotton Mull Embroidered Dress
+											Add to cart
+										
+										
+											
+												R","/html/body/section[2]/div/div/div[2]/div/div[18]/div/div"
+"div","","","productinfo text-center","Rs. 1190
+											Cotton Mull Embroidered Dress
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[18]/div/div/div"
+"div","","","product-overlay","Rs. 1190
+												Cotton Mull Embroidered Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[18]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1190
+												Cotton Mull Embroidered Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[18]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[18]/div/div[2]"
+"div","","","col-sm-4","Rs. 1530
+											Blue Cotton Indie Mickey Dress
+											Add to cart
+										
+										
+											
+												","/html/body/section[2]/div/div/div[2]/div/div[19]"
+"div","","","product-image-wrapper","Rs. 1530
+											Blue Cotton Indie Mickey Dress
+											Add to cart
+										
+										
+											
+												","/html/body/section[2]/div/div/div[2]/div/div[19]/div"
+"div","","","single-products","Rs. 1530
+											Blue Cotton Indie Mickey Dress
+											Add to cart
+										
+										
+											
+												","/html/body/section[2]/div/div/div[2]/div/div[19]/div/div"
+"div","","","productinfo text-center","Rs. 1530
+											Blue Cotton Indie Mickey Dress
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[19]/div/div/div"
+"div","","","product-overlay","Rs. 1530
+												Blue Cotton Indie Mickey Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[19]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1530
+												Blue Cotton Indie Mickey Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[19]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[19]/div/div[2]"
+"div","","","col-sm-4","Rs. 1600
+											Long Maxi Tulle Fancy Dress Up Outfits -Pink
+											Add to cart
+										
+										
+										","/html/body/section[2]/div/div/div[2]/div/div[20]"
+"div","","","product-image-wrapper","Rs. 1600
+											Long Maxi Tulle Fancy Dress Up Outfits -Pink
+											Add to cart
+										
+										
+										","/html/body/section[2]/div/div/div[2]/div/div[20]/div"
+"div","","","single-products","Rs. 1600
+											Long Maxi Tulle Fancy Dress Up Outfits -Pink
+											Add to cart
+										
+										
+										","/html/body/section[2]/div/div/div[2]/div/div[20]/div/div"
+"div","","","productinfo text-center","Rs. 1600
+											Long Maxi Tulle Fancy Dress Up Outfits -Pink
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[20]/div/div/div"
+"div","","","product-overlay","Rs. 1600
+												Long Maxi Tulle Fancy Dress Up Outfits -Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[20]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1600
+												Long Maxi Tulle Fancy Dress Up Outfits -Pink
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[20]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[20]/div/div[2]"
+"div","","","col-sm-4","Rs. 1100
+											Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+											Add to cart
+										
+										
+","/html/body/section[2]/div/div/div[2]/div/div[21]"
+"div","","","product-image-wrapper","Rs. 1100
+											Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+											Add to cart
+										
+										
+","/html/body/section[2]/div/div/div[2]/div/div[21]/div"
+"div","","","single-products","Rs. 1100
+											Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+											Add to cart
+										
+										
+","/html/body/section[2]/div/div/div[2]/div/div[21]/div/div"
+"div","","","productinfo text-center","Rs. 1100
+											Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[21]/div/div/div"
+"div","","","product-overlay","Rs. 1100
+												Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[21]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1100
+												Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[21]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[21]/div/div[2]"
+"div","","","col-sm-4","Rs. 849
+											Colour Blocked Shirt – Sky Blue
+											Add to cart
+										
+										
+											
+												","/html/body/section[2]/div/div/div[2]/div/div[22]"
+"div","","","product-image-wrapper","Rs. 849
+											Colour Blocked Shirt – Sky Blue
+											Add to cart
+										
+										
+											
+												","/html/body/section[2]/div/div/div[2]/div/div[22]/div"
+"div","","","single-products","Rs. 849
+											Colour Blocked Shirt – Sky Blue
+											Add to cart
+										
+										
+											
+												","/html/body/section[2]/div/div/div[2]/div/div[22]/div/div"
+"div","","","productinfo text-center","Rs. 849
+											Colour Blocked Shirt – Sky Blue
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[22]/div/div/div"
+"div","","","product-overlay","Rs. 849
+												Colour Blocked Shirt – Sky Blue
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[22]/div/div/div[2]"
+"div","","","overlay-content","Rs. 849
+												Colour Blocked Shirt – Sky Blue
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[22]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[22]/div/div[2]"
+"div","","","col-sm-4","Rs. 1299
+											Pure Cotton V-Neck T-Shirt
+											Add to cart
+										
+										
+											
+												Rs. ","/html/body/section[2]/div/div/div[2]/div/div[23]"
+"div","","","product-image-wrapper","Rs. 1299
+											Pure Cotton V-Neck T-Shirt
+											Add to cart
+										
+										
+											
+												Rs. ","/html/body/section[2]/div/div/div[2]/div/div[23]/div"
+"div","","","single-products","Rs. 1299
+											Pure Cotton V-Neck T-Shirt
+											Add to cart
+										
+										
+											
+												Rs. ","/html/body/section[2]/div/div/div[2]/div/div[23]/div/div"
+"div","","","productinfo text-center","Rs. 1299
+											Pure Cotton V-Neck T-Shirt
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[23]/div/div/div"
+"div","","","product-overlay","Rs. 1299
+												Pure Cotton V-Neck T-Shirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[23]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1299
+												Pure Cotton V-Neck T-Shirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[23]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[23]/div/div[2]"
+"div","","","col-sm-4","Rs. 1000
+											Green Side Placket Detail T-Shirt
+											Add to cart
+										
+										
+											
+									","/html/body/section[2]/div/div/div[2]/div/div[24]"
+"div","","","product-image-wrapper","Rs. 1000
+											Green Side Placket Detail T-Shirt
+											Add to cart
+										
+										
+											
+									","/html/body/section[2]/div/div/div[2]/div/div[24]/div"
+"div","","","single-products","Rs. 1000
+											Green Side Placket Detail T-Shirt
+											Add to cart
+										
+										
+											
+									","/html/body/section[2]/div/div/div[2]/div/div[24]/div/div"
+"div","","","productinfo text-center","Rs. 1000
+											Green Side Placket Detail T-Shirt
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[24]/div/div/div"
+"div","","","product-overlay","Rs. 1000
+												Green Side Placket Detail T-Shirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[24]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1000
+												Green Side Placket Detail T-Shirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[24]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[24]/div/div[2]"
+"div","","","col-sm-4","Rs. 1500
+											Premium Polo T-Shirts
+											Add to cart
+										
+										
+											
+												Rs. 1500
+","/html/body/section[2]/div/div/div[2]/div/div[25]"
+"div","","","product-image-wrapper","Rs. 1500
+											Premium Polo T-Shirts
+											Add to cart
+										
+										
+											
+												Rs. 1500
+","/html/body/section[2]/div/div/div[2]/div/div[25]/div"
+"div","","","single-products","Rs. 1500
+											Premium Polo T-Shirts
+											Add to cart
+										
+										
+											
+												Rs. 1500
+","/html/body/section[2]/div/div/div[2]/div/div[25]/div/div"
+"div","","","productinfo text-center","Rs. 1500
+											Premium Polo T-Shirts
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[25]/div/div/div"
+"div","","","product-overlay","Rs. 1500
+												Premium Polo T-Shirts
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[25]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1500
+												Premium Polo T-Shirts
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[25]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[25]/div/div[2]"
+"div","","","col-sm-4","Rs. 850
+											Pure Cotton Neon Green Tshirt
+											Add to cart
+										
+										
+											
+												Rs","/html/body/section[2]/div/div/div[2]/div/div[26]"
+"div","","","product-image-wrapper","Rs. 850
+											Pure Cotton Neon Green Tshirt
+											Add to cart
+										
+										
+											
+												Rs","/html/body/section[2]/div/div/div[2]/div/div[26]/div"
+"div","","","single-products","Rs. 850
+											Pure Cotton Neon Green Tshirt
+											Add to cart
+										
+										
+											
+												Rs","/html/body/section[2]/div/div/div[2]/div/div[26]/div/div"
+"div","","","productinfo text-center","Rs. 850
+											Pure Cotton Neon Green Tshirt
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[26]/div/div/div"
+"div","","","product-overlay","Rs. 850
+												Pure Cotton Neon Green Tshirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[26]/div/div/div[2]"
+"div","","","overlay-content","Rs. 850
+												Pure Cotton Neon Green Tshirt
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[26]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[26]/div/div[2]"
+"div","","","col-sm-4","Rs. 799
+											Soft Stretch Jeans
+											Add to cart
+										
+										
+											
+												Rs. 799
+					","/html/body/section[2]/div/div/div[2]/div/div[27]"
+"div","","","product-image-wrapper","Rs. 799
+											Soft Stretch Jeans
+											Add to cart
+										
+										
+											
+												Rs. 799
+					","/html/body/section[2]/div/div/div[2]/div/div[27]/div"
+"div","","","single-products","Rs. 799
+											Soft Stretch Jeans
+											Add to cart
+										
+										
+											
+												Rs. 799
+					","/html/body/section[2]/div/div/div[2]/div/div[27]/div/div"
+"div","","","productinfo text-center","Rs. 799
+											Soft Stretch Jeans
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[27]/div/div/div"
+"div","","","product-overlay","Rs. 799
+												Soft Stretch Jeans
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[27]/div/div/div[2]"
+"div","","","overlay-content","Rs. 799
+												Soft Stretch Jeans
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[27]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[27]/div/div[2]"
+"div","","","col-sm-4","Rs. 1200
+											Regular Fit Straight Jeans
+											Add to cart
+										
+										
+											
+												Rs. ","/html/body/section[2]/div/div/div[2]/div/div[28]"
+"div","","","product-image-wrapper","Rs. 1200
+											Regular Fit Straight Jeans
+											Add to cart
+										
+										
+											
+												Rs. ","/html/body/section[2]/div/div/div[2]/div/div[28]/div"
+"div","","","single-products","Rs. 1200
+											Regular Fit Straight Jeans
+											Add to cart
+										
+										
+											
+												Rs. ","/html/body/section[2]/div/div/div[2]/div/div[28]/div/div"
+"div","","","productinfo text-center","Rs. 1200
+											Regular Fit Straight Jeans
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[28]/div/div/div"
+"div","","","product-overlay","Rs. 1200
+												Regular Fit Straight Jeans
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[28]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1200
+												Regular Fit Straight Jeans
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[28]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[28]/div/div[2]"
+"div","","","col-sm-4","Rs. 1400
+											Grunt Blue Slim Fit Jeans
+											Add to cart
+										
+										
+											
+												Rs. 1","/html/body/section[2]/div/div/div[2]/div/div[29]"
+"div","","","product-image-wrapper","Rs. 1400
+											Grunt Blue Slim Fit Jeans
+											Add to cart
+										
+										
+											
+												Rs. 1","/html/body/section[2]/div/div/div[2]/div/div[29]/div"
+"div","","","single-products","Rs. 1400
+											Grunt Blue Slim Fit Jeans
+											Add to cart
+										
+										
+											
+												Rs. 1","/html/body/section[2]/div/div/div[2]/div/div[29]/div/div"
+"div","","","productinfo text-center","Rs. 1400
+											Grunt Blue Slim Fit Jeans
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[29]/div/div/div"
+"div","","","product-overlay","Rs. 1400
+												Grunt Blue Slim Fit Jeans
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[29]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1400
+												Grunt Blue Slim Fit Jeans
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[29]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[29]/div/div[2]"
+"div","","","col-sm-4","Rs. 2300
+											Rose Pink Embroidered Maxi Dress
+											Add to cart
+										
+										
+											
+										","/html/body/section[2]/div/div/div[2]/div/div[30]"
+"div","","","product-image-wrapper","Rs. 2300
+											Rose Pink Embroidered Maxi Dress
+											Add to cart
+										
+										
+											
+										","/html/body/section[2]/div/div/div[2]/div/div[30]/div"
+"div","","","single-products","Rs. 2300
+											Rose Pink Embroidered Maxi Dress
+											Add to cart
+										
+										
+											
+										","/html/body/section[2]/div/div/div[2]/div/div[30]/div/div"
+"div","","","productinfo text-center","Rs. 2300
+											Rose Pink Embroidered Maxi Dress
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[30]/div/div/div"
+"div","","","product-overlay","Rs. 2300
+												Rose Pink Embroidered Maxi Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[30]/div/div/div[2]"
+"div","","","overlay-content","Rs. 2300
+												Rose Pink Embroidered Maxi Dress
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[30]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[30]/div/div[2]"
+"div","","","col-sm-4","Rs. 3000
+											Cotton Silk Hand Block Print Saree
+											Add to cart
+										
+										
+											
+								","/html/body/section[2]/div/div/div[2]/div/div[31]"
+"div","","","product-image-wrapper","Rs. 3000
+											Cotton Silk Hand Block Print Saree
+											Add to cart
+										
+										
+											
+								","/html/body/section[2]/div/div/div[2]/div/div[31]/div"
+"div","","","single-products","Rs. 3000
+											Cotton Silk Hand Block Print Saree
+											Add to cart
+										
+										
+											
+								","/html/body/section[2]/div/div/div[2]/div/div[31]/div/div"
+"div","","","productinfo text-center","Rs. 3000
+											Cotton Silk Hand Block Print Saree
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[31]/div/div/div"
+"div","","","product-overlay","Rs. 3000
+												Cotton Silk Hand Block Print Saree
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[31]/div/div/div[2]"
+"div","","","overlay-content","Rs. 3000
+												Cotton Silk Hand Block Print Saree
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[31]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[31]/div/div[2]"
+"div","","","col-sm-4","Rs. 3500
+											Rust Red Linen Saree
+											Add to cart
+										
+										
+											
+												Rs. 3500
+	","/html/body/section[2]/div/div/div[2]/div/div[32]"
+"div","","","product-image-wrapper","Rs. 3500
+											Rust Red Linen Saree
+											Add to cart
+										
+										
+											
+												Rs. 3500
+	","/html/body/section[2]/div/div/div[2]/div/div[32]/div"
+"div","","","single-products","Rs. 3500
+											Rust Red Linen Saree
+											Add to cart
+										
+										
+											
+												Rs. 3500
+	","/html/body/section[2]/div/div/div[2]/div/div[32]/div/div"
+"div","","","productinfo text-center","Rs. 3500
+											Rust Red Linen Saree
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[32]/div/div/div"
+"div","","","product-overlay","Rs. 3500
+												Rust Red Linen Saree
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[32]/div/div/div[2]"
+"div","","","overlay-content","Rs. 3500
+												Rust Red Linen Saree
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[32]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[32]/div/div[2]"
+"div","","","col-sm-4","Rs. 5000
+											Beautiful Peacock Blue Cotton Linen Saree
+											Add to cart
+										
+										
+											
+	","/html/body/section[2]/div/div/div[2]/div/div[33]"
+"div","","","product-image-wrapper","Rs. 5000
+											Beautiful Peacock Blue Cotton Linen Saree
+											Add to cart
+										
+										
+											
+	","/html/body/section[2]/div/div/div[2]/div/div[33]/div"
+"div","","","single-products","Rs. 5000
+											Beautiful Peacock Blue Cotton Linen Saree
+											Add to cart
+										
+										
+											
+	","/html/body/section[2]/div/div/div[2]/div/div[33]/div/div"
+"div","","","productinfo text-center","Rs. 5000
+											Beautiful Peacock Blue Cotton Linen Saree
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[33]/div/div/div"
+"div","","","product-overlay","Rs. 5000
+												Beautiful Peacock Blue Cotton Linen Saree
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[33]/div/div/div[2]"
+"div","","","overlay-content","Rs. 5000
+												Beautiful Peacock Blue Cotton Linen Saree
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[33]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[33]/div/div[2]"
+"div","","","col-sm-4","Rs. 1400
+											Lace Top For Women
+											Add to cart
+										
+										
+											
+												Rs. 1400
+			","/html/body/section[2]/div/div/div[2]/div/div[34]"
+"div","","","product-image-wrapper","Rs. 1400
+											Lace Top For Women
+											Add to cart
+										
+										
+											
+												Rs. 1400
+			","/html/body/section[2]/div/div/div[2]/div/div[34]/div"
+"div","","","single-products","Rs. 1400
+											Lace Top For Women
+											Add to cart
+										
+										
+											
+												Rs. 1400
+			","/html/body/section[2]/div/div/div[2]/div/div[34]/div/div"
+"div","","","productinfo text-center","Rs. 1400
+											Lace Top For Women
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[34]/div/div/div"
+"div","","","product-overlay","Rs. 1400
+												Lace Top For Women
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[34]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1400
+												Lace Top For Women
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[34]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[34]/div/div[2]"
+"div","","","col-sm-4","Rs. 1389
+											GRAPHIC DESIGN MEN T SHIRT - BLUE
+											Add to cart
+										
+										
+											
+									","/html/body/section[2]/div/div/div[2]/div/div[35]"
+"div","","","product-image-wrapper","Rs. 1389
+											GRAPHIC DESIGN MEN T SHIRT - BLUE
+											Add to cart
+										
+										
+											
+									","/html/body/section[2]/div/div/div[2]/div/div[35]/div"
+"div","","","single-products","Rs. 1389
+											GRAPHIC DESIGN MEN T SHIRT - BLUE
+											Add to cart
+										
+										
+											
+									","/html/body/section[2]/div/div/div[2]/div/div[35]/div/div"
+"div","","","productinfo text-center","Rs. 1389
+											GRAPHIC DESIGN MEN T SHIRT - BLUE
+											Add to cart","/html/body/section[2]/div/div/div[2]/div/div[35]/div/div/div"
+"div","","","product-overlay","Rs. 1389
+												GRAPHIC DESIGN MEN T SHIRT - BLUE
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[35]/div/div/div[2]"
+"div","","","overlay-content","Rs. 1389
+												GRAPHIC DESIGN MEN T SHIRT - BLUE
+												Add to cart","/html/body/section[2]/div/div/div[2]/div/div[35]/div/div/div[2]/div"
+"div","","","choose","View Product","/html/body/section[2]/div/div/div[2]/div/div[35]/div/div[2]"
+"div","","","recommended_items","recommended items
+						
+						
+							
+								
+									
+										
+											
+												
+													
+											","/html/body/section[2]/div/div/div[2]/div[2]"
+"div","recommended-item-carousel","","carousel slide","Rs. 500
+													Blue Top
+													Add to cart
+												
+												
+											
+										
+									
+						","//*[@id=recommended-item-carousel]"
+"div","","","carousel-inner","Rs. 500
+													Blue Top
+													Add to cart
+												
+												
+											
+										
+									
+						","/html/body/section[2]/div/div/div[2]/div[2]/div/div"
+"div","","","item","Rs. 500
+													Blue Top
+													Add to cart
+												
+												
+											
+										
+									
+						","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div"
+"div","","","col-sm-4","Rs. 500
+													Blue Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div"
+"div","","","product-image-wrapper","Rs. 500
+													Blue Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div/div"
+"div","","","single-products","Rs. 500
+													Blue Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div/div/div"
+"div","","","productinfo text-center","Rs. 500
+													Blue Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div/div/div/div"
+"div","","","col-sm-4","Rs. 400
+													Men Tshirt
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[2]"
+"div","","","product-image-wrapper","Rs. 400
+													Men Tshirt
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[2]/div"
+"div","","","single-products","Rs. 400
+													Men Tshirt
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[2]/div/div"
+"div","","","productinfo text-center","Rs. 400
+													Men Tshirt
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div"
+"div","","","col-sm-4","Rs. 1000
+													Rs. 1000
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[3]"
+"div","","","product-image-wrapper","Rs. 1000
+													Rs. 1000
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[3]/div"
+"div","","","single-products","Rs. 1000
+													Rs. 1000
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[3]/div/div"
+"div","","","productinfo text-center","Rs. 1000
+													Rs. 1000
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div/div[3]/div/div/div"
+"div","","","item active","Rs. 1500
+													Stylish Dress
+													Add to cart
+												
+												
+											
+										
+									
+","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]"
+"div","","","col-sm-4","Rs. 1500
+													Stylish Dress
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div"
+"div","","","product-image-wrapper","Rs. 1500
+													Stylish Dress
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div"
+"div","","","single-products","Rs. 1500
+													Stylish Dress
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div"
+"div","","","productinfo text-center","Rs. 1500
+													Stylish Dress
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div"
+"div","","","col-sm-4","Rs. 600
+													Winter Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]"
+"div","","","product-image-wrapper","Rs. 600
+													Winter Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div"
+"div","","","single-products","Rs. 600
+													Winter Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div"
+"div","","","productinfo text-center","Rs. 600
+													Winter Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div"
+"div","","","col-sm-4","Rs. 400
+													Summer White Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[3]"
+"div","","","product-image-wrapper","Rs. 400
+													Summer White Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[3]/div"
+"div","","","single-products","Rs. 400
+													Summer White Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div"
+"div","","","productinfo text-center","Rs. 400
+													Summer White Top
+													Add to cart","/html/body/section[2]/div/div/div[2]/div[2]/div/div/div[2]/div[3]/div/div/div"
+"div","","","google-auto-placed","","/html/body/div"
+"div","aswift_2_host","","","","//*[@id=aswift_2_host]"
+"div","","","footer-widget","You have been successfully subscribed!
+						
+					
+					
+						
+							Subscription
+							
+								
+								
+								
+","/html/body/footer/div"
+"div","","","container","You have been successfully subscribed!
+						
+					
+					
+						
+							Subscription
+							
+								
+								
+								
+","/html/body/footer/div/div"
+"div","","","row","You have been successfully subscribed!
+						
+					
+					
+						
+							Subscription
+							
+								
+								
+								
+","/html/body/footer/div/div/div"
+"div","","","form-row","You have been successfully subscribed!","/html/body/footer/div/div/div/div"
+"div","success-subscribe","","col-md-9 hide form-group","You have been successfully subscribed!","//*[@id=success-subscribe]"
+"div","","","alert-success alert","You have been successfully subscribed!","/html/body/footer/div/div/div/div/div/div"
+"div","","","col-sm-3 col-sm-offset-1","Subscription
+							
+								
+								
+								
+								Get the most recent updates from our site and be updated your se","/html/body/footer/div/div/div/div[2]"
+"div","","","single-widget","Subscription
+							
+								
+								
+								
+								Get the most recent updates from our site and be updated your se","/html/body/footer/div/div/div/div[2]/div"
+"div","","","footer-bottom","Copyright © 2021 All rights reserved","/html/body/footer/div[2]"
+"div","","","container","Copyright © 2021 All rights reserved","/html/body/footer/div[2]/div"
+"div","","","row","Copyright © 2021 All rights reserved","/html/body/footer/div[2]/div/div"
+"div","aswift_0_host","","","","//*[@id=aswift_0_host]"
+"div","","","ad_box300x250 pencil_ad sidebarNewsletterAd frontpage-google-ad sphereAdContainer","","/html/body/div[2]"
