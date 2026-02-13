@@ -1,5 +1,6 @@
 QA_Automation\Practice\pages\LoginPage.class
 QA_Automation\Practice\DumpXPaths.class
 QA_Automation\Practice\pages\HomePage.class
+QA_Automation\Practice\pages\JavascrUtility.class
 QA_Automation\Practice\pages\RegistrationPage.class
 QA_Automation\Practice\pages\AccountPage.class

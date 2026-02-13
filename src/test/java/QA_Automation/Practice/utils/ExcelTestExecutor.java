@@ -2,6 +2,8 @@ package QA_Automation.Practice.utils;
 
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.junit.internal.runners.statements.Fail;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -11,6 +13,7 @@ import java.util.Map;
 public class ExcelTestExecutor {
     private static final String baseResourcePath = "src/test/resources/Excelsourcefile/";
     private final String fileName = "Userstory1.xlsx";
+    public static String Status = "Fail";
 
     /**
      * Retrieves the data from the 'Input' column for a specific step.
@@ -46,6 +49,8 @@ public class ExcelTestExecutor {
      * Updates the status and returns the input value for the current step
      */
     public void runTests(String step, String status) throws Exception {
+
+        Status = status;
         System.out.println("enter runTests method");
         File f = new File(baseResourcePath + fileName);
 

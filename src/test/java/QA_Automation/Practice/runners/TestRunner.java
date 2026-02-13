@@ -8,10 +8,10 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/resources/features", glue = "QA_Automation.Practice.stepdefinitions", plugin = {
-        "pretty",
-        "html:target/cucumber-report.html",
-        "json:target/cucumber-report.json",
-        "junit:target/cucumber-report.xml"
+                "pretty",
+                "html:target/cucumber-report.html",
+                "json:target/cucumber-report.json",
+                "junit:target/cucumber-report.xml"
 }, monochrome = true, dryRun = false)
 public class TestRunner {
 }
