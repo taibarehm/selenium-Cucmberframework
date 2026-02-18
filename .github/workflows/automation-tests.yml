@@ -31,10 +31,12 @@ jobs:
       run: mvn clean test -DskipITs=false
       shell: cmd
     
-    - name: Generate HTML Report
-      if: always()
-      run: mvn surefire-report:report
+   
+
+    - name: Run Maven Tests
+      run: mvn clean test -DskipITs=false -Dorg.slf4j.simpleLogger.defaultLogLevel=info
       shell: cmd
+      timeout-minutes: 30
     
     - name: Upload Test Results
       if: always()
